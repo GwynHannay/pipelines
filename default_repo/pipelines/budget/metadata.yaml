@@ -1,0 +1,27 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: ynab dropbox
+  retry_config: null
+  status: updated
+  type: scratchpad
+  upstream_blocks: []
+  uuid: ynab_dropbox
+callbacks: []
+data_integration: null
+description: null
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: budget
+type: python
+updated_at: '2023-06-07 22:27:29'
+uuid: budget
+widgets: []
