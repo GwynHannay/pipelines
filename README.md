@@ -1,2 +1,2 @@
 # pipelines
-Data pipelines on the cloud
+Data pipelines on my home server using Mage.
