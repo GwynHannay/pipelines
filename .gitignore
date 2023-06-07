@@ -30,3 +30,4 @@ override.tf.json
 
 # Mage
 .preferences.yaml
+.file_versions/*
