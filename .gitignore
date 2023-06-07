@@ -34,3 +34,8 @@ profiles.yml
 
 **/._requirements.txt
 **/.file_versions/*
+
+# dbt
+**/target/*
+**/dbt_packages/*
+**/logs/*
