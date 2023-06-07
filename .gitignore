@@ -38,6 +38,7 @@ profiles.yml
 **/._requirements.txt
 **/.file_versions/*
 **/.mage_temp_profiles/*
+mage_data/*
 
 # dbt
 **/target/*
